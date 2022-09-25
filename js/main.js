@@ -213,9 +213,9 @@ document.getElementById('shared').style = "display: flex";
 
          <div class="modal_body">
 
-         <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://intertech20.github.io/vota_lugar/" class="modal_social" title="Comparte en facebook"><i class="fab fa-facebook-square"></i></a>
-         <a target="_blank" href="http://twitter.com/home?status=https://intertech20.github.io/vota_lugar/" title="Comparte en twitter" class="modal_social"><i class="fab fa-twitter-square"></i></a>
-         <a target="_blank" href="https://api.whatsapp.com/send?text=https://intertech20.github.io/vota_lugar/" class="modal_social" title="Comparte en Whatsapp"><i class="fab fa-whatsapp-square"></i></a>
+         <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://obrian-code.github.io/Lugar-de-Votacion/" class="modal_social" title="Comparte en facebook"><i class="fab fa-facebook-square"></i></a>
+         <a target="_blank" href="http://twitter.com/home?status=https://obrian-code.github.io/Lugar-de-Votacion//" title="Comparte en twitter" class="modal_social"><i class="fab fa-twitter-square"></i></a>
+         <a target="_blank" href="https://api.whatsapp.com/send?text=https://obrian-code.github.io/Lugar-de-Votacion/" class="modal_social" title="Comparte en Whatsapp"><i class="fab fa-whatsapp-square"></i></a>
 
                 </div>
 
