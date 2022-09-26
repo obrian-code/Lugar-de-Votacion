@@ -10,7 +10,7 @@ Este es un proyecto personal construido en mi tiempo libre con fines de aprendiz
 
 ✓ HTML<br>
 ✓ CSS<br>
-✓ Javascript (CDN)<br>
+✓ Javascript<br>
 
 ## Instalación
 
